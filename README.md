@@ -1,4 +1,4 @@
-<h1 align="center">Multilingual Safety Benchmark for LLMs</h1>
+<h1 align="center">A FORK OF Multilingual Safety Benchmark for LLMs</h1>
 Paper: All Languages Matter: On the Multilingual Safety of Large Language Model. 
 <br>   <br>
 
